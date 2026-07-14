@@ -195,54 +195,6 @@ is optimized for:
 
 ---
 
-# Quick Start
-
-## Clone Repository
-
-```bash
-git clone https://github.com/<your-username>/FarmShieldProAI_HimalayanEdition.git
-```
-
-## Create Virtual Environment
-
-```bash
-python3 -m venv venv
-
-source venv/bin/activate
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Train Model
-
-```bash
-python -m training.train
-```
-
-## Evaluate Model
-
-```bash
-python -m training.evaluate
-```
-
-## Export TensorFlow Lite Model
-
-```bash
-python -m deployment.export
-```
-
-## Verify Exported Model
-
-```bash
-python -m deployment.verify
-```
-
----
-
 # Future Improvements
 
 - Fine-tune entire MobileNetV3 backbone
@@ -271,6 +223,8 @@ python -m deployment.verify
 
 - LiteRT Runtime
 - Flutter (Farm Shield Pro)
+
+**Note:** The training datasets are not included in this repository due to their size. The repository contains the complete training and deployment pipeline, while datasets should be downloaded separately.
 
 ---
 
