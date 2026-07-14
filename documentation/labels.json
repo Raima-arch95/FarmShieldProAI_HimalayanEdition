@@ -1,0 +1,177 @@
+[
+    {
+        "label": 0,
+        "crop": "Apple",
+        "disease": "AppleScab"
+    },
+    {
+        "label": 1,
+        "crop": "Apple",
+        "disease": "BlackRot"
+    },
+    {
+        "label": 2,
+        "crop": "Apple",
+        "disease": "CedarAppleRust"
+    },
+    {
+        "label": 3,
+        "crop": "Apple",
+        "disease": "Healthy"
+    },
+    {
+        "label": 4,
+        "crop": "Capsicum",
+        "disease": "BacterialSpot"
+    },
+    {
+        "label": 5,
+        "crop": "Capsicum",
+        "disease": "Healthy"
+    },
+    {
+        "label": 6,
+        "crop": "Maize",
+        "disease": "CommonRust"
+    },
+    {
+        "label": 7,
+        "crop": "Maize",
+        "disease": "GrayLeafSpot"
+    },
+    {
+        "label": 8,
+        "crop": "Maize",
+        "disease": "Healthy"
+    },
+    {
+        "label": 9,
+        "crop": "Maize",
+        "disease": "NorthernLeafBlight"
+    },
+    {
+        "label": 10,
+        "crop": "Potato",
+        "disease": "EarlyBlight"
+    },
+    {
+        "label": 11,
+        "crop": "Potato",
+        "disease": "Healthy"
+    },
+    {
+        "label": 12,
+        "crop": "Potato",
+        "disease": "LateBlight"
+    },
+    {
+        "label": 13,
+        "crop": "Tomato",
+        "disease": "BacterialSpot"
+    },
+    {
+        "label": 14,
+        "crop": "Tomato",
+        "disease": "EarlyBlight"
+    },
+    {
+        "label": 15,
+        "crop": "Tomato",
+        "disease": "Healthy"
+    },
+    {
+        "label": 16,
+        "crop": "Tomato",
+        "disease": "LateBlight"
+    },
+    {
+        "label": 17,
+        "crop": "Tomato",
+        "disease": "LeafMold"
+    },
+    {
+        "label": 18,
+        "crop": "Tomato",
+        "disease": "SeptoriaLeafSpot"
+    },
+    {
+        "label": 19,
+        "crop": "Tomato",
+        "disease": "SpiderMites"
+    },
+    {
+        "label": 20,
+        "crop": "Tomato",
+        "disease": "TargetSpot"
+    },
+    {
+        "label": 21,
+        "crop": "Tomato",
+        "disease": "TomatoMosaicVirus"
+    },
+    {
+        "label": 22,
+        "crop": "Tomato",
+        "disease": "TomatoYellowLeafCurlVirus"
+    },
+    {
+        "label": 23,
+        "crop": "Wheat",
+        "disease": "BlackRust"
+    },
+    {
+        "label": 24,
+        "crop": "Wheat",
+        "disease": "BrownRust"
+    },
+    {
+        "label": 25,
+        "crop": "Wheat",
+        "disease": "CommonRootRot"
+    },
+    {
+        "label": 26,
+        "crop": "Wheat",
+        "disease": "FusariumHeadBlight"
+    },
+    {
+        "label": 27,
+        "crop": "Wheat",
+        "disease": "Healthy"
+    },
+    {
+        "label": 28,
+        "crop": "Wheat",
+        "disease": "LeafBlight"
+    },
+    {
+        "label": 29,
+        "crop": "Wheat",
+        "disease": "PowderyMildew"
+    },
+    {
+        "label": 30,
+        "crop": "Wheat",
+        "disease": "SeptoriaLeafBlotch"
+    },
+    {
+        "label": 31,
+        "crop": "Wheat",
+        "disease": "Smut"
+    },
+    {
+        "label": 32,
+        "crop": "Wheat",
+        "disease": "TanSpot"
+    },
+    {
+        "label": 33,
+        "crop": "Wheat",
+        "disease": "WheatBlast"
+    },
+    {
+        "label": 34,
+        "crop": "Wheat",
+        "disease": "YellowRust"
+    }
+]

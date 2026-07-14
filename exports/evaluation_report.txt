@@ -1,0 +1,37 @@
+Farm Shield Pro AI Model v1
+
+Architecture:
+MobileNetV3-Small
+
+Framework:
+PyTorch
+
+Transfer Learning:
+ImageNet pretrained
+
+Input Size:
+224 × 224 RGB
+
+Classes:
+35
+
+Dataset Size:
+40,977 images
+
+Validation Accuracy:
+91.29%
+
+Overall Accuracy:
+91.06%
+
+Training Epochs:
+10
+
+Optimizer:
+Adam
+
+Learning Rate:
+0.001
+
+Inference:
+Offline

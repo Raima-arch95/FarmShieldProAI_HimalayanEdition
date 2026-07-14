@@ -1,0 +1,149 @@
+{
+  "Apple___healthy": {
+    "crop": "Apple",
+    "disease": "Healthy"
+  },
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "disease": "AppleScab"
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "disease": "BlackRot"
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "disease": "CedarAppleRust"
+  },
+
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy"
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "EarlyBlight"
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "LateBlight"
+  },
+
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy"
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "disease": "BacterialSpot"
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "EarlyBlight"
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "LateBlight"
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "disease": "LeafMold"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "disease": "SeptoriaLeafSpot"
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "disease": "SpiderMites"
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "disease": "TargetSpot"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "disease": "TomatoMosaicVirus"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "disease": "TomatoYellowLeafCurlVirus"
+  },
+
+  "Corn_(maize)___healthy": {
+    "crop": "Maize",
+    "disease": "Healthy"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Maize",
+    "disease": "CommonRust"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Maize",
+    "disease": "NorthernLeafBlight"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Maize",
+    "disease": "GrayLeafSpot"
+  },
+
+  "Pepper,_bell___healthy": {
+    "crop": "Capsicum",
+    "disease": "Healthy"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Capsicum",
+    "disease": "BacterialSpot"
+  },
+
+  "Black Rust": {
+    "crop": "Wheat",
+    "disease": "BlackRust"
+  },
+  "Brown Rust": {
+      "crop": "Wheat",
+      "disease": "BrownRust"
+  },
+  "Yellow Rust": {
+      "crop": "Wheat",
+      "disease": "YellowRust"
+  },
+  "Fusarium Head Blight": {
+      "crop": "Wheat",
+      "disease": "FusariumHeadBlight"
+  },
+  "Leaf Blight": {
+      "crop": "Wheat",
+      "disease": "LeafBlight"
+  },
+  "Healthy": {
+      "crop": "Wheat",
+      "disease": "Healthy"
+  },
+  "Smut": {
+      "crop": "Wheat",
+      "disease": "Smut"
+  },
+  "Common Root Rot": {
+      "crop": "Wheat",
+      "disease": "CommonRootRot"
+  },
+  "Septoria": {
+      "crop": "Wheat",
+      "disease": "SeptoriaLeafBlotch"
+  },
+  "Tan spot": {
+      "crop": "Wheat",
+      "disease": "TanSpot"
+  },
+  "Blast": {
+      "crop": "Wheat",
+      "disease": "WheatBlast"
+  },
+  "Mildew": {
+      "crop": "Wheat",
+      "disease": "PowderyMildew"
+  }
+  
+  
+}
